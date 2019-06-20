@@ -53,7 +53,8 @@ table {
 }
 
 .btn, .thead {
-    background-color: #44c0f0 !important;
+    color: white;
+    background-color: #742387 !important;
 }
 .thead {
     text-align: center;
@@ -89,7 +90,7 @@ hr {
 caption { 
     background-color: rgb(90,85,90);
     font-weight: bold;
-    color: #44c0f0; 
+    color: #4ca2a3; 
     padding-top: .7em; 
     padding-bottom: .7em; 
     letter-spacing: .085em;
@@ -122,11 +123,11 @@ input, select, .form-label {
 }
 
 * {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
 .logo-style1 {
-    color:#44c0f0;
+    color:#4ca2a3;
     font-weight: bold;
 }
 
@@ -138,7 +139,7 @@ input, select, .form-label {
   .sk-three-bounce .sk-child {
     width: 20px;
     height: 20px;
-    background-color: #44c0f0;
+    background-color: #4ca2a3;
     border-radius: 100%;
     display: inline-block;
     -webkit-animation: sk-three-bounce 1.4s ease-in-out 0s infinite both;
