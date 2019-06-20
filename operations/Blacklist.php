@@ -36,7 +36,7 @@ class Blacklist implements OperationInterface{
         "rbl.orbitrbl.com",
         "dnsrbl.org",
         "db.wpbl.info","bad.psky.me",
-        "bl.spamcop.net",
+        "bl.spamcop.net", 
         "noptr.spamrats.com",
         "dyna.spamrats.com",
         "spam.spamrats.com",
